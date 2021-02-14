@@ -1,4 +1,4 @@
-# Digisolve-The Digital Agency for Winners
+# Digisolve-The Digital Agency for Winners website template
 
 ## The one stop for all your digital solutions
 
